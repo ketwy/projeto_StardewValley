@@ -3,5 +3,5 @@ criado nos evento do @devemdobro
 
 **Resultado final:** [Disponível aqui](https://ketwy.github.io/projeto_StardewValley/) 
 
-![resultado do site](src/imagens/imagem.png)
+![resultado do site](src/imagens/image.png)
 
